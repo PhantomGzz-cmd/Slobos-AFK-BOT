@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "entermcsmp.aternos.me:14232",
+    "ip": "entermcsmp.aternos.me",
     "port": 14232,
     "version": "1.21.1"
   },
